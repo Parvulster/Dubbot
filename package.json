@@ -1,0 +1,25 @@
+{
+  "name": "dubbot",
+  "version": "1.0.0",
+  "description": "A bot for the dubtrack.fm service, to help keep communities moderated.",
+  "main": "bot.js",
+  "dependencies": {
+    "dubapi": "git://github.com/anjanms/DubAPI.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Parvulster/Dubbot.git"
+  },
+  "keywords": [
+    "dubbot",
+	"dubtrack bot",
+	"dubtrack",
+	"dubtrack.fm"
+  ],
+  "author": "Parvulster",
+  "license": "CC-BY-NC-ND-4.0"
+}
